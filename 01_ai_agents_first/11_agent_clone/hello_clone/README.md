@@ -4,7 +4,7 @@
 
 1. **Navigate to the module:**
    ```bash
-   cd 01_ai_agents_first/11_agent_clone/hello_agent
+   cd 01_ai_agents_first/11_agent_clone/hello_clone
    ```
 
 2. **Install dependencies:**
